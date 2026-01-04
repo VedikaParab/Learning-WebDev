@@ -1,0 +1,30 @@
+Users interact with the shell which in turn interact with the kernel i.e the hardware of the device.
+
+Two types of interface:
+1. Graphical User Interface
+2. Command Line Interface
+
+Bash: Bourne Again shell
+
+Why command line vs graphical?
+- Faster
+- More control
+- Simpler once understood
+
+ls - list of all files and folders
+cd - change directory/ go inside folders
+cd ~ -  goes all the way back
+cd .. - takes one level back
+pwd - print working directory/ tells our current location
+
+use ALT button to edit the commands in between
+CTRL + A to go to the leftmost character
+CTRL + U clears the command we are writing
+
+mkdir (folder_name) - make a new directory
+touch (filename.format) - create a new file (touch text.txt)
+start (filename.format) - opens the file
+code (filename.format) - opens in coding app/VS code
+rm (filename.format) - deletes that specific file
+rm * - removes all files in the current directory
+rm -r (directory name) - deletes the specified directory

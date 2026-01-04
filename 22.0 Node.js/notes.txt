@@ -1,0 +1,11 @@
+Node.js is an asynchronous, event-driven Javascript runtime.
+It allows JS to run out of a browser too.
+- Scalable
+- Large Community Support
+- Famous
+- In JS, so understandable
+
+Read-Eval-Print-Loop
+
+Native modules come pre-bundled with Node which gives access to lot of functionality.
+
